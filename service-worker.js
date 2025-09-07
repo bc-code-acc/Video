@@ -1,4 +1,4 @@
-const CACHE = "app-shell-v1";
+const CACHE = "app-shell-v2";
 const ASSETS = [
     "./",                 // scope root
     "index.html",
